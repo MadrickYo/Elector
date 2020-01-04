@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VoterMan</string>
+    <string name="login">Login</string>
+    <string name="new_user_register_now">New User? Register Now</string>
+    <string name="email_address">email address</string>
+    <string name="voterman">VoterMan</string>
+    <string name="login_form">Login Form</string>
+    <string name="password">password</string>
+</resources>

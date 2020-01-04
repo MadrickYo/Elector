@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/dashboard"
+        android:title="Dashboard"
+        android:icon="@drawable/ic_menu_black_24dp"
+        />
+    <item
+        android:id="@+id/create_election"
+        android:title="Create election"
+        android:icon="@drawable/ic_add_box_black_24dp"
+        />
+    <item
+        android:id="@+id/votes"
+        android:title="Votes"
+        android:icon="@drawable/ic_lock_black_24dp"
+        />
+    <item
+        android:id="@+id/voters"
+        android:title="Voters"
+        android:icon="@drawable/ic_person_black_24dp"
+        />
+    <item
+        android:id="@+id/candidates"
+        android:title="Candidates"
+        android:icon="@drawable/ic_person_pin_black_24dp"
+        />
+    <item
+        android:id="@+id/settings"
+        android:title="Settings"
+        android:icon="@drawable/ic_settings_black_24dp"
+        />
+    <item
+        android:id="@+id/logout"
+        android:title="Logout"
+        android:icon="@drawable/ic_power_settings_new_black_24dp"
+        />
+</menu>
